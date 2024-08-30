@@ -104,6 +104,7 @@ export const DATA = {
       start: "Nov 2022",
       end: "Dec 2026",
       logoUrl: "/ipu.png",
+      href: "https://ipu.ac.in",
     },
     {
       school: "Sarvodaya Co-ed Vidyalaya",
@@ -111,6 +112,8 @@ export const DATA = {
       location: "Hari Nagar, Delhi",
       start: "Apr 2020",
       end: "Jun 2022",
+      logoUrl: "#",
+      href: "#",
     },
   ],
   projects: [
@@ -140,6 +143,7 @@ export const DATA = {
         },
       ],
       "image": "/adidas.gif",
+      "video":"#",
     },
     {
       title: "MocBot AI Chatbot",
@@ -166,7 +170,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image:"/mocbot.png"
+      image:"/mocbot.png",
+      "video":"#",
     },
     {
       title: "Food-pricing-API",
@@ -193,7 +198,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image:"/food_API.png"
+      image:"/food_API.png",
+      "video":"#",
     },
     {
       title: "RealTimeCollab Text Editor",
@@ -221,6 +227,7 @@ export const DATA = {
         },
       ],
       image: "/editor_image.png",
+      "video":"#",
     },
   ],
   hackathons: [
